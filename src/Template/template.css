@@ -1,0 +1,10 @@
+.main-content{
+    height: 80vh;
+    display: flex;
+    justify-content: top;
+    flex-direction: column;
+}
+
+.main-content > *{
+    align-self: center;
+}
